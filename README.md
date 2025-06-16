@@ -47,7 +47,7 @@ powershell.exe -ExecutionPolicy Bypass -File "recursive-unzip.ps1" "C:\Downloads
 
 1. **Remove Right-click Context Menu (if was installed)**  
    Double-click `remove-context-menu.reg`
-2. Delete the files
+2. **Delete the files**
 
 ## How It Works
 
