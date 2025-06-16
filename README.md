@@ -43,6 +43,12 @@ powershell.exe -ExecutionPolicy Bypass -File "recursive-unzip.ps1" "C:\Downloads
 # C:\Downloads\nested-archive.zip_extracted\
 ```
 
+## Removal
+
+1. **Remove Right-click Context Menu (if was installed)**  
+   Double-click `remove-context-menu.reg`
+2. Delete the files
+
 ## How It Works
 
 1. **Initial Extraction**: Extracts the main ZIP file to a new directory
